@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Magdy
 - 👀 I’m interested in High Energy Physics
-- 🌱 I’m currently learning Model building tools
-- 📫 Magdy.Louka@cern.ch  /  Magdy.Louka@bue.edu.eg
+- 🌱 I’m currently learning CMSSW & ML 
+- 📫 Magdy.Louka@cern.ch  /  Magdy.Louka@ba.infn.it
 
 <!---
 MagdyLouka/MagdyLouka is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
